@@ -169,3 +169,6 @@ python -m pytest tests/test_main.py -v
 ## License
 
 This project was developed as a backend assignment.
+=======
+# bulk-certificate-generator
+>>>>>>> c4b9f912aea0d3901fddebe69885648587dbbbcb
