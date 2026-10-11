@@ -1,0 +1,9 @@
+@"
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+certificates.db
+generated_certificates/
+.env
+"@ | Set-Content .gitignore
